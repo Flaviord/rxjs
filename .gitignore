@@ -1,0 +1,9 @@
+**/node_modules/
+**/*.log
+**/*.log.*
+/**/dist
+**/.DS_Store
+/**/.vscode
+build/**
+/public/build/*
+.vscode
