@@ -4,6 +4,6 @@
 /**/dist
 **/.DS_Store
 /**/.vscode
-build/**
+build/
 /public/build/*
 .vscode
